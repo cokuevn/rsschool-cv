@@ -1,0 +1,39 @@
+.body {
+    font-family: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+    background-color: #F2F2F2;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.header-container {
+
+}
+
+.header-title {
+    border-bottom: 1px solid gray;
+}
+
+.header-subtitle {
+    font-weight: 500;
+}
+
+.header-img {
+    height: 250px;
+    margin-top: 21px;
+}
+
+.header-text {
+    font-weight: bold;
+    list-style: none;
+}
+
+.header-text-span {
+    font-weight: 200;
+}
+
+a {
+    text-decoration: none;
+}

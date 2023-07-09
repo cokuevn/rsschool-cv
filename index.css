@@ -9,14 +9,12 @@
 
 .header {
   display: flex;
-    flex-direction: row;
+  flex-direction: row;
   justify-content: space-between;
   background-color: #f2f2f2;
   padding-left: 30px;
   padding-right: 30px;
   padding-bottom: 30px;
-}
-.header-container {
 }
 
 .header-list {
@@ -51,6 +49,24 @@ a {
 .main {
   padding: 30px;
 }
+
+.experience {
+  margin-top: 40px;
+}
+
+
+.study {
+  margin-top: 50px;
+}
+
+.kurs {
+  margin-top: 60px;
+}
+
+.title-jobs {
+  margin-top: 70px;
+}
+
 
 .footer {
   height: 100px;
